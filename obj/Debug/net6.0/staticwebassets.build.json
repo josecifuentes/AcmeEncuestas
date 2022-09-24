@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y+eV6tjfZMe9Z4G2E89T1PRXX4gWi+Ssd049zJ5M5sM=",
+  "Source": "WebApiAcmeEncuestasV1",
+  "BasePath": "_content/WebApiAcmeEncuestasV1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
