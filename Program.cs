@@ -17,7 +17,7 @@ builder.Services.AddTransient<EncuestaService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var key = "lectureTest1234";
+var key = "lectureTest1234$$$";
 
 builder.Services.AddAuthentication(x =>
 {
